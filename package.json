@@ -1,0 +1,13 @@
+{
+  "name": "changes",
+  "version": "0.0.1",
+  "description": "A simple CouchDB serializer",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cloudant": "^1.0.0-beta3"
+  },
+  "engines": {
+    "node": "0.10.26"
+  },
+  "repository": "https://github.com/glynnbird/changes"
+}
